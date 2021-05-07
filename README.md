@@ -1,5 +1,7 @@
 ## A functional-style Python implementation of the maximum segment sum problem
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zinedine-zeitnot/maximum-segment-sum/HEAD?filepath=playground.ipynb)
+
 The *maximum segment sum* problem is the task of computing the largest sum amongst the sums of all contiguous subsequences (or "segments") of a given list of integers.
 
 So, for instance, the maximum segment sum of the list `[-1, 2, -3, 5, -2, 1, 3, -2, -2, -3, 6]` is 7 and it is achieved for the maximal segment `[5, -2, 1, 3]`.
