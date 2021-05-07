@@ -29,7 +29,7 @@ In 1989, Richard Bird rederived Kadane's solution from a purely functional setti
 
 We present Bird's proof from a slightly-adapted Pythonic setting in `fromO(n**3)ToO(n).md`.
 
-Finally, we offer you to get your hands on the Python implementation (cf. `maximum_segment_sum.py`) through a corresponding Jupyter notebook playground (available by clicking on the Binder badge above :point_up:)
+Finally, we offer you to get your hands on the Python implementation (cf. `maximum_segment_sum.py`) through a corresponding Jupyter notebook playground (available by clicking on the Binder badge at the top :point_up:)
 
 N.B.: The implementation makes use of Python 3.10 through the new pattern matching mechanism (cf. [PEP 622](https://www.python.org/dev/peps/pep-0622/)). However, this requires (to this date) a custom build of Python 3.10 to be used onto the Binder-hosted notebook. Consequently, your notebook environment may take a bit long to setup the first time (~7-8mn) before you can finally play with it. So please go on about your other businesses in the meantime (but also please don't go too far at the risk of not coming back :wink:). Then, if you were to experience a "Kernel Not Found" pop-up message at the notebook's opening, clicking on "Set Kernel" should be fine to finally get you your notebook up and running.
 
