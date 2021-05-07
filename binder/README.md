@@ -1,0 +1,1 @@
+Shamelessly copy-pasted from https://github.com/gvanrossum/patma and slightly adapted to remove the non-essential parts. 
